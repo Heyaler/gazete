@@ -1,0 +1,2 @@
+# gazete
+Gazeteler
